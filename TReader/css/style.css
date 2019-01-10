@@ -1,0 +1,64 @@
+.screen-left
+{
+	width:30%;
+	height: 100%;
+	background: rgb(29, 130, 142);
+	padding-bottom: 100%;
+	margin-left: 0px;
+	margin-top: 0px;
+	position: relative;
+}
+
+* {
+    font-family: Verdana, Lucida Sans, Arial, Helvetica, sans-serif;
+}
+
+
+
+
+.perfil
+{
+	margin-top: 20%;
+	width: 100%;
+	font-size: 250%;
+	position: absolute;
+	color: black;
+	background: rgb(226, 236, 239);
+
+}
+
+	
+.cadastro
+{
+	margin-top: 40%;
+	width: 100%;
+	font-size: 250%;
+	position: absolute;
+	color: black;
+	background: rgb(226, 236, 239);	
+
+}
+
+.listaDesejos
+{
+	width: 100%;
+	font-size: 250%;
+	position: absolute;
+	color: black;;
+	background: rgb(226, 236, 239);	
+	margin-top: 60%;
+}
+
+.imagem
+{
+	width: 30%;
+	height: 30%;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-top:2%;
+	margin-bottom: 2%;
+	
+	
+}
+
+
